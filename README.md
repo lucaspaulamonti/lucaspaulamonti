@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Lucas. 👋
 #### Esse é o meu portfólio.
-- 🔭 Estou trabalhando como Front-End.
 - 🌱 Estou aprendendo Programação Orientada a Objetos com Java.
 - 😄 Meus pronomes: Ele/dele.
 - 💜 2024. Graduando em Psicologia.
