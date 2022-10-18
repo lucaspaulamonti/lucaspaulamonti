@@ -18,5 +18,5 @@
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspaulamonti&layout=compact)](https://github.com/lucaspaulamonti/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspaulamoni&layout=compact)](https://github.com/lucaspaulamoni/github-readme-stats)
 
