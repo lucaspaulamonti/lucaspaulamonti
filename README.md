@@ -19,3 +19,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspaulamonti&langs_count=10&)]()
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspaulamonti&langs_count=10&theme=jolly"/>
