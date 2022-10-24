@@ -18,3 +18,10 @@
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspaulamonti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</br>
+
+https://github.com/lucaspaulamonti?tab=repositories&q=programacao-orientada-a-objetos-com-java&type=public&language=java&sort=
+https://github.com/lucaspaulamonti?tab=repositories&q=simple-and-retro-games-with-python&type=public&language=python&sort=
+https://github.com/lucaspaulamonti?tab=repositories&q=logica-de-programacao-e-algoritimos-com-python&type=public&language=python&sort=
+https://github.com/lucaspaulamonti?tab=repositories&q=introduction-to-computer-science-with-python&type=public&language=python&sort=
+https://github.com/lucaspaulamonti?tab=repositories&q=santander-coders-web-full-stack-lets-code-java&type=public&language=java&sort=
+https://github.com/lucaspaulamonti?tab=repositories&q=cisco-javascript-essentials-i&type=public&language=javascript&sort=
