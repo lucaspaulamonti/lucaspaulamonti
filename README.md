@@ -19,10 +19,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspaulamonti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</br>
 
-<button type="button">
 https://github.com/lucaspaulamonti?tab=repositories&q=programacao-orientada-a-objetos-com-java&type=public&language=java&sort=
 https://github.com/lucaspaulamonti?tab=repositories&q=simple-and-retro-games-with-python&type=public&language=python&sort=
 https://github.com/lucaspaulamonti?tab=repositories&q=logica-de-programacao-e-algoritimos-com-python&type=public&language=python&sort=
 https://github.com/lucaspaulamonti?tab=repositories&q=introduction-to-computer-science-with-python&type=public&language=python&sort=
 https://github.com/lucaspaulamonti?tab=repositories&q=santander-coders-web-full-stack-lets-code-java&type=public&language=java&sort=
 https://github.com/lucaspaulamonti?tab=repositories&q=cisco-javascript-essentials-i&type=public&language=javascript&sort=
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
