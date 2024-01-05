@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D1E5E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+de+Paula+Monti.;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align=center width=100% margin=0% padding=0%>  
-  <img width=500rem src="https://github-readme-stats.vercel.app/api?username=lucaspaulamonti&show_icons=true&count_private=true&hide_border=true&title_color=D1E5E1&icon_color=D1E5E1&text_color=D1E5E1&bg_color=0d1117" alt="lucas' github stats" /> 
-  <img width=500rem src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspaulamonti&layout=compact&hide_border=true&title_color=D1E5E1&text_color=D1E5E1&bg_color=0d1117" alt="lucas' top langs" />
+  <img width=49% src="https://github-readme-stats.vercel.app/api?username=lucaspaulamonti&show_icons=true&count_private=true&hide_border=true&title_color=D1E5E1&icon_color=D1E5E1&text_color=D1E5E1&bg_color=0d1117" alt="lucas' github stats" /> 
+  <img width=49% src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspaulamonti&layout=compact&hide_border=true&title_color=D1E5E1&text_color=D1E5E1&bg_color=0d1117" alt="lucas' top langs" />
 </div>
 
  ### Main skills:
