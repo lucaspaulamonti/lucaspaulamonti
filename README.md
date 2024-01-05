@@ -33,7 +33,7 @@
  
  ### Social media:
 <div width=100% margin=0% padding=0%>
-<img width=20rem src="https://github.com/lucaspaulamonti/lucaspaulamonti/assets/155757043/7fd5392e-f392-42ff-bd22-5ee5c98b5764" alt="linkedin icon"> https://www.linkedin.com/in/lucaspaulamonti/
+<img width=20rem src="https://github.com/lucaspaulamonti/lucaspaulamonti/assets/155757043/7fd5392e-f392-42ff-bd22-5ee5c98b5764" alt="linkedin icon"> linkedin.com/in/lucaspaulamonti
 </div>
 
 <div width=100% margin=0% padding=0%>
