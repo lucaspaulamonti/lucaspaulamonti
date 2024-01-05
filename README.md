@@ -1,5 +1,7 @@
 <img width=100% margin=0% padding=0% src="https://capsule-render.vercel.app/api?type=waving&color=D1E5E1&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D1E5E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caroline+Barbosa;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <!--
 **lucaspaulamonti/lucaspaulamonti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
