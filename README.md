@@ -26,7 +26,7 @@
 - 🌱 I’m currently learning: Sorting algorithms.
 - 👯 I’m looking to collaborate on: Open-source softwares.
 - 🤔 I’m looking for help with: Access violation at address 1002C389 in module fbclient.dll.
-- 💬 Ask me about ...
+- 💬 Ask me about: Why did humanity stop using Verdi's Lá 432hz frequency?
 - 📫 How to reach me: Send me a message on my linkedin.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Too much change is not a good thing. Ask the climate. _Michael Scott
