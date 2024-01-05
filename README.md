@@ -2,13 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D1E5E1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+de+Paula+Monti.;Be+Welcome!)](https://git.io/typing-svg)
 
-<div align="center">  
+<div align="center" width=100% margin=0% padding=0%>  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucaspaulamonti&show_icons=true&count_private=true&hide_border=true&title_color=D1E5E1&icon_color=D1E5E1&text_color=D1E5E1&bg_color=0d1117" alt="Lucas' github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspaulamonti&layout=compact&hide_border=true&title_color=D1E5E1&text_color=D1E5E1&bg_color=0d1117" />
 </div>
 
  ### Main skills:
-<div align="center">  
+<div align="center" width=100% margin=0% padding=0%>  
 <img src="https://github.com/lucaspaulamonti/lucaspaulamonti/assets/155757043/032a8c3e-e6a1-48dc-bf48-a690b2253589" alt="html5 icon">
 <img src="https://github.com/lucaspaulamonti/lucaspaulamonti/assets/155757043/0e04e366-f497-4af8-a49c-cea6934081c1" alt="css3 icon">
 <img src="https://github.com/lucaspaulamonti/lucaspaulamonti/assets/155757043/c060856f-8b26-4c7d-a3b9-1cfd23707183" alt="javascript icon">
@@ -30,3 +30,5 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: ...
+
+<img width=100% margin=0% padding=0% src="https://capsule-render.vercel.app/api?type=waving&color=D1E5E1&height=120&section=footer"/>
