@@ -22,9 +22,9 @@
 </div>
 
  ### About me:
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on: My course completion work.
 - 🌱 I’m currently learning: Sorting algorithms.
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on: Open-source softwares.
 - 🤔 I’m looking for help with: Access violation at address 1002C389 in module fbclient.dll.
 - 💬 Ask me about ...
 - 📫 How to reach me: Send me a message on my linkedin.
