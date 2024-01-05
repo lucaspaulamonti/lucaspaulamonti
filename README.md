@@ -31,7 +31,7 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Too much change is not a good thing. Ask the climate. _Michael Scott
 
-<div align=center width=100% margin=0% padding=0%>  
+<div width=100% margin=0% padding=0%>  
 <br>
 Postgraduate degree in Software Engineering in progress.<br> 
 Higher Education in Psychology.<br> 
