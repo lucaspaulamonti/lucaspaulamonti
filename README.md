@@ -30,5 +30,14 @@
 - 📫 How to reach me: Send me a message on my linkedin.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: ...
+ 
+ ### Social media:
+<div width=100% margin=0% padding=0%>
+<img width=20rem src="https://github.com/lucaspaulamonti/lucaspaulamonti/assets/155757043/7fd5392e-f392-42ff-bd22-5ee5c98b5764" alt="linkedin icon"> https://www.linkedin.com/in/lucaspaulamonti/
+</div>
+
+<div width=100% margin=0% padding=0%>
+<img width=20rem src="https://github.com/lucaspaulamonti/lucaspaulamonti/assets/155757043/ac78c8f9-c9d9-47e9-9645-00113f82f125" alt="gmail icon"> lucasdepaulamonti@gmail.com
+</div>
 
 <img width=100% margin=0% padding=0% src="https://capsule-render.vercel.app/api?type=waving&color=D1E5E1&height=120&section=footer"/>
