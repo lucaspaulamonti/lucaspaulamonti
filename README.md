@@ -30,6 +30,8 @@
 - 📫 How to reach me: Send me a message on my linkedin.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Too much change is not a good thing. Ask the climate. _Michael Scott
+
+Higher Education in Psychology. Higher Education in Systems Analysis and Development. Technical Education in Informatics/Computer Science.
  
  ### Social media:
 <div width=100% margin=0% padding=0%>
