@@ -33,7 +33,7 @@
 
  ### Education:
 <div width=100% margin=0% padding=0%>  
-Postgraduate degree in Software Engineering in progress.<br> 
+Higher Education in Data Science.<br>
 Higher Education in Psychology.<br> 
 Higher Education in Systems Analysis and Development.<br> 
 Technical Education in Informatics/Computer Science.
