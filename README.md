@@ -33,10 +33,11 @@
 
  ### Education:
 <div width=100% margin=0% padding=0%>  
-Higher Education in Data Science.<br>
-Higher Education in Psychology.<br> 
-Higher Education in Systems Analysis and Development.<br> 
-Technical Education in Informatics/Computer Science.
+  Master's Degree in Psychoanalysis and Psychopathology.<br>
+  Bachelor's Degree in Software Engineering.<br>
+  Bachelor's Degree in Psychology.<br> 
+  Associate's Degree in Systems Analysis and Development.<br> 
+  Associate's Degree in Informatics/Computer Science.
 </div>
  
  ### Social media:
